@@ -7,7 +7,7 @@ body  {
 }
 .container_12{
 	background: #fff;
-	margin-right: 0px;
+	margin-right: 10px;
 	margin-left: 0px;
 	
 }
@@ -98,7 +98,7 @@ ul a:hover {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	margin-left: 0px;
-	margin-right: 0px;
+	margin-right: 10px;
 }
 #para{
 	margin-left: 10px;
@@ -150,5 +150,5 @@ footer li{
 }
 .paragraph1 h3{
 	text-align: center;
-	
+
 }
