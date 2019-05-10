@@ -4,7 +4,7 @@ It is a user friendly site with description of the dresses.
 The grid system is used to develop the website.
 
 # Usage
-html, css
+html, css, link for website- https://maquil.github.io/Assignment-1/
 
 #contributor
 Maria Aquil
